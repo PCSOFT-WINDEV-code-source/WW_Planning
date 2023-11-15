@@ -1,0 +1,131 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WW_Planning
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : Le projet a pour but de gérer un planning en ligne
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : CAAAAAgAAAA/jfUhFE1L1uYAEmtRwtS39yO0PizZ2cJq2RZzzxubY1BzYEa2X1oOf5pki2QlOCRxC2YI2BV21YjmGuPAHcKScvkbrJObToKn2Vy+2uQyLgT7R8o8/5ab6OW5icnsiJtVA71wH8iXRN1urtpQzYfnly2qgGiXOq2r3iFZV5i2pjnHonoc+TBT3cpv/SlKaplAz9ndh+YwprvBTIIirOL5X0OsM5DJDlmhJIXODBUlCl23EylFL9jzB/tg29RnGdm1OMAiH0OH0L97YGzlxeC4JZVArvi2z2wf6F6BOv6S67OY+1N6d/H4QX7RbYGv5h69kLdPKZTye+JCjXWYuQSYFFeyOhHuR3CeDG7hIstJvuSQvQLCSu+56lKxcTJzfNwNpfLKa3KVUCMQvSI4Gj4bOlgjCTWxI93RM9OXZWmIINKOyxT0khgPvggji/cHmwIdxNBWsG/dpBqm9nlOuYyMPM6o+I1UzDVetP/HK7segbs/VSN2CgBuamEbAXWtUmb9G6eRowcqxTnNgi82IEunmt8+nj4m7o9KuLx+VS8/05h2q6uA3V3npSYhTUAQ0QmLtcImDl/Tgca+UyRn/BJXGPT+eqYbb9puN35Ve5mO8v64uYRtuaRn4j+lsAfBQd4oqknOBzY0gX6FnRrYLvlababEFQZxBFy19lTHhYhtiJi6Gs49Jpm6xA/B5i3kilAbjHtWmaVANNDdpIkNcrKaDOHTScTDgzg6d1I9u72kHOCKiMsAVn02r3DVXNiz+HLu7JzDu0SZ2XSidPO+jdX7pp6LR3i2dm40MDx0FnLW/qulBwek5uCM+PbzU7SYG+4pBODecZJZdDOZrCdvqmRLwfQlrbmjcXF6lXIvtE8vW1wCYIcFQiPaksH95w48Ob9Jy5PgcwCd3XGrsepQ3mbSWXw7zf4MtMltARaP0QHt5oUW3fr9bCyKKQ73YfNEb8xNIgTOl6rz/YXFoadRaL37Cw+Vnu6MLUL9mcCq7AnAirouzzmfpq7lC7CzkI7IHdx3Zc8MiyYLL7L7ETVLHenymyNUKIFCnZfxzNWovAW+FyN1qzOkuvHFzD10b4Nb1umXB2cEGSGQ2uiW4WMmIsxPSf6wJ7bWs9HH+jDnECAlGYZLJ0ymc7oZCABXEb5/fEmevEVYN/URh5meyPXSK63sXHejMriYi2tMDnE0dKoS7nglMwFMMaxfK9CRIymiln0dlw4Sdln9FDrLwbkTTRYG2/iKeQF5R4l+skJ65wc1XgnbEa+OpJS/PjdEfEaaJj0tc3+acYtH/Ne170p7qI/dHsgVOVe5jWez0Vigv+zg9uBJ6bhk1p0D71SGfJoU/m+yiNuYuiZMsWVv8XgJSM1UTg/rp3MJIDRPYyujNyhvmizXfiqsZhD+PvQ7LdhocvYiGE62w/1RrAIDNHjQQ3zNr9saco1A3XfWVgqP7F4mPK5EKB6HDlNv5s5I0KtcbZzaRCpM5H/24l78JiBAxe/BIZaDJa3PJm+ZF52FDrsHnGydkfeVN3qbNpwDOcXbv3P1T5lVlSN2UJsaCctrltdZ53NpCHEsoKcRNB/myQ3M6Z/XTMGIqU0jP5PblAb/GP1pEVDKyMfdH0yVm5VRwTWL9wf/WFOPCSuMEAZM4RNUJgnip1/ldpTyYuB/7M/+GJa42i1TEgr9jFMGQlcG33dMSxH6QXNeRLldCVxAxKWvoTnJohiw6x51IwhefCZFNRNGKCFXvEdFJNmlQcApssakUYdC4IX3bPFXdcnK8ltqREU66rsBD4gq8dfNzwUpFLzVpBJxmbjVFmYFXWVG7ITCK7Ew6y9J1H3hwiXgoG9cgKp1pvKIvpWvC3/nEIp51foV6EQWTBMicxDzaSdgVHl2OmxLuloIOfFpKhFdLXB40BfEJ8Ikql70Mvp7VvDIYY7Zi/EG+quTRxuRFg+HIAmuFiI=
+ configurations :
+  -
+    name : WW_Planning
+    internal_properties : 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
+    configuration_id : 4279849151691346779
+    type : 2
+    generation_name : WW_Planning.wdl
+    version : {}
+    language : 1
+    64bits : true
+ elements :
+  identifier : 0x4ac4d28d001125dd
+  elements :
+   -
+     name : REQ_TacheJourEmploye
+     identifier : 0x456da65100031158
+     internal_properties : CAAAAAgAAACLh/OXFFHZglsq/2Gdopif4Y6kdE77eNtKqAh2Sl2xV/kbHJjMdVtjKBSOaiqmUkaOlg==
+     physical_name : .\REQ_TacheJourEmploye.WDR
+     type : 5
+   -
+     name : PAGE_Planning
+     identifier : 0x43c918d7027c9c01
+     internal_properties : CAAAAAgAAAAdeXUplsNrdMLKKyZmezodS2gGniTeH2OKlF+xhL9X+RvFXr7Dfxj8r5YA+Lgo0MAICA==
+     physical_name : .\PAGE_Planning.wwh
+     type : 65538
+   -
+     name : COL_TESTHFSQL
+     identifier : 0x425d0d98008a0ecb
+     internal_properties : CAAAAAgAAADtacXZ5lPbhKl8zdMvmMItC7iGDjuKi+BWXWeuj5MD3WeJ8jI6x6kx+iaQaCjYoBD4eA==
+     physical_name : .\COL_TESTHFSQL.wdg
+     type : 7
+   -
+     name : TEST_COL_TESTHFSQL
+     identifier : 0x425d0da4008c3d0f
+     internal_properties : CAAAAAgAAABNyaX5xrP7JAkcbfMPee7ZMwJqQn1EjoGyMnJbkpD67t42IRNa58nRWsYwiAj4gHBY2A==
+     physical_name : .\TEST_COL_TESTHFSQL.wxt
+     type : 17
+   -
+     name : PAGEMOD_Centre
+     identifier : 0x43c918b602691bda
+     internal_properties : CAAAAAgAAADySCp+zbryLTUhEgiRQ3T9zO+bw+Ntv7BKKECYh2wo8AzCOGPxyQ3zVs03gQH/++3XXw==
+     physical_name : .\PAGEMOD_Centre.wwt
+     type : 65541
+  other_elements :
+   -
+     physical_name : .\description.gif
+   -
+     physical_name : .\description.rtf
+  analysis : .\PLANNING.ana\PLANNING.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ wb_skin : 190 BanQoo
+ wb_color_palette : Billion
+ languages :
+  - fr-FR
+ site_map :
+  roots : []
+  orphans :
+   -
+     name : PAGE_Planning
+     parameters : []
+     title : {}
+     description : {}
+ url_rewriting :
+  internal_properties : CAAAAAgAAADkPzcUdUUS7wCiun+MCjqYH70RJdzkSv/nRvXZ3ENdikMa6bcHtsAH
+ code_elements :
+  internal_properties : CAAAAAgAAABseimUYz4VdXZ8hGsGFqoxLDfDcHkNZdBf0iQg2FQcqmw5VrO2lryVMt3efm9RagPlXJBReauIsX3ZdB8=
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      
+      // Date par défaut
+      gdDate est une date = datedujour()
+      
+      // Initialisation des jours fériés (pour la France et DOM/TOM)
+      JourFériéSupprimeTout()
+      //
+      JourFériéAjoute("0101")	// Nouvel an
+      JourFériéAjoute("0501")	// Fête du travail
+      JourFériéAjoute("0508")	// Armistice 1945
+      JourFériéAjoute("0714")	// Fête nationale française 
+      JourFériéAjoute("0815")	// Assomption
+      JourFériéAjoute("1101")	// Toussaint
+      JourFériéAjoute("1111")	// Armistice 1918
+      JourFériéAjoute("1225")	// Noël
+      JourFériéAjoute(jfJourDePâques)			// Pâques
+      JourFériéAjoute(jfLundiDePâques)		// Lundi de Pâques
+      JourFériéAjoute(jfJeudiDeLAscension)	// Ascension
+      JourFériéAjoute(jfLundiDePentecôte)		// Lundi de Pentecôte
+     type : 196608
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WW_Planning
+     identifier : 0x4ac4d28d00172734
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==

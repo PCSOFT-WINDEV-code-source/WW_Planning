@@ -1,0 +1,9 @@
+[INFOS]
+gaf=0
+title=WW_Planning
+image=description.gif
+description=description.rtf
+source=1
+typesite=0
+[OBJECT]
+WW_Planning.WWP=4096
